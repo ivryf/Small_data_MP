@@ -1,1 +1,1 @@
-To view the notebook in github, all you have to do is click on the file titled "F1_small_data.ipynb". Hope you find the results interesting!
+In this project, I used data on formula 1 races to make a multi-layer perceptron that can predict whether or not drivers are going to pit at any given lap. To view the notebook in github, all you have to do is click on the file titled "F1_small_data.ipynb". Hope you find the results interesting!
